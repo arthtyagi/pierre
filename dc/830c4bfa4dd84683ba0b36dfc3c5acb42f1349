@@ -1,0 +1,24 @@
+packages/diffs/test/reactStrictMode.test.ts
+  s_30e8ac5362043d::t_a946d2983236df 1-125,127-128
+  s_30e8ac5362043d::t_2129e9f6a26a00 126,129-134
+packages/diffs/src/components/File.ts
+  s_30e8ac5362043d::t_ff384db5359860 745-751
+packages/diffs/src/components/FileDiff.ts
+  s_30e8ac5362043d::t_5af80711ad65fa 972-978
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "dc830c4bfa4dd84683ba0b36dfc3c5acb42f1349",
+  "prompts": {},
+  "sessions": {
+    "s_30e8ac5362043d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8f099856-601d-4b5a-a2f7-9d2de7c1b4e1",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Arth Tyagi <onarth@icloud.com>"
+    }
+  }
+}
